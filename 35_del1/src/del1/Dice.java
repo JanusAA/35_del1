@@ -11,6 +11,7 @@ public class Dice {
 		return randomnumber;
 		
 		//Cunt
+		//continues
 	}
 
 }
