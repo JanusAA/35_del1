@@ -10,8 +10,7 @@ public class Dice {
 		int randomnumber= (int)(Math.random()*6+1);
 		return randomnumber;
 		
-		//Cunt
-		//continues
+	
 	}
 
 }
